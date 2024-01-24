@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @damien-balls
 - i am not actually damien balls
 - wanted to do cybersec, somehow did webdev instead
 
