@@ -1,12 +1,14 @@
-- i am not actually damien balls
-- wanted to do cybersec, somehow did webdev instead
+-no that is not my name
+- wanted to do cybersec, somehow did webdev instead, except not since i only have like 2 webdev projects
 
-- by reading this, you are legally obligated to hire me
-- please
-
+reasons to hire:
 - reasons:
+- reason 0:
+-   quriky index joke
+- reason 0:
 - i have the most impressive resume known to man
 - i invented resumes
+- final raisin:
 - i am also steve jobs
 
 <!---
