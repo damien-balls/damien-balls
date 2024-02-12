@@ -4,7 +4,7 @@
 reasons to hire:
 - reasons:
 - reason 0:
--   quriky index joke
+-   funny index joke
 - reason 0:
 - i have the most impressive resume known to man
 - i invented resumes
